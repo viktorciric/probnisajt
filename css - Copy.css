@@ -1,0 +1,169 @@
+body {
+   overflow: hidden;
+   -webkit-user-select: none;        
+  -moz-user-select: none; 
+  -ms-user-select: none; 
+  user-select: none; 
+  -webkit-user-select: none;
+    background-color: #9c9797
+    
+ }
+ 
+ form {
+ display: flex;
+ justify-content: flex-end;
+ align-items: center;
+ }
+ 
+ 
+ input {
+  background-color: rgb(255, 255, 255);
+ border-radius: 50px;
+ position: relative;
+ right: 65px;
+ }
+ 
+ h2 {
+ color: rgb(90, 64, 64); 
+ text-align: center;   
+ font-size: 75px;
+ }
+ 
+ #login2 {
+    position: relative;
+    top: -230px;
+    right: -1130px;
+    border-radius: 150px;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    
+   
+ }
+ 
+ #singup2 {
+    position: relative;
+  right: -1010;
+  top: -230px;
+  cursor: pointer;
+  border-radius: 100px;
+  background-color: rgb(57, 57, 133);
+  color: white;
+  
+  
+ }
+
+#pocetni-ekran {  
+   height: 55px;
+   width: 55px;
+   background-color: rgb(0, 0, 0);
+   border-radius: 150px;
+   position: relative;
+   right: -1374px;
+   top: -240px;
+   
+}
+
+#slika12 {
+height: 50px;
+position: relative;
+right: -1374px;
+top: -290px;
+border-radius: 150px;
+}
+
+#accaunt {
+color: rgb(240, 244, 247);
+position: relative;
+right: -136000px;
+top: -29700px;
+font-size: 20px;
+}
+
+
+#oblik1 {
+   width: 1120;
+   height: 830;
+   left: -15px;
+   background-color: rgb(255, 255, 255);
+   position: relative;
+   top: -520;
+   }
+
+#dugme1 {
+   position: relative;
+   top: -322;
+   right: -1063;
+   color: white;
+   background-color: blue;
+   border-radius: 50px;
+   cursor: pointer;
+}
+
+#tekst1 {
+font-size: 20px;
+position: relative;
+right: -0;
+top: 0;
+color: rgb(255, 255, 255);
+
+}
+
+#oblak1 {
+   width: 113;
+   height: 25;
+   background-color: black;
+   position: relative;
+   right:-1150 ;
+   top: -280;
+   border-radius: 50px
+}
+
+#dugme2 {
+position: relative;
+right:-1285 ;
+top: -302;
+border-radius: 25px;
+cursor: pointer;
+}
+
+#tekst2 {
+   font-size: 20px;
+position: relative;
+right: -1167;
+top: -318;
+color: rgb(255, 255, 255);
+}
+
+
+#dugme3 {
+   position: relative;
+   right: -1285;
+   top: -350;
+   border-radius: 25px;
+   cursor: pointer;
+}
+
+#viksa {
+
+   color: white;
+   position: relative;
+   right: 280px;
+   top: 50px;
+}
+
+#naslov {
+   position: relative;
+   right: 200px;
+   color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+ 
+    
+  
+

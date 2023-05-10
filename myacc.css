@@ -1,0 +1,39 @@
+body {
+    background-color: #9c9797;
+    overflow: hidden;
+   -webkit-user-select: none;        
+  -moz-user-select: none; 
+  -ms-user-select: none; 
+  user-select: none; 
+  -webkit-user-select: none;
+}
+
+
+#oblik1 {
+    width: 1120;
+    height: 830;
+    left: -15px;
+    background-color: #c7c7c7;
+    position: relative;
+    top: -10;
+}   
+
+#slika12 {
+    height: 50px;
+    position: relative;
+    right: -1375px;
+    top: -830px;
+    border-radius: 150px;
+    }
+ #dugme1 {
+    position: relative;
+    top: -860;
+    right: -1263;
+    color: white;
+    background-color: blue;
+    border-radius: 50px;
+    cursor: pointer;
+     }
+
+
+        
